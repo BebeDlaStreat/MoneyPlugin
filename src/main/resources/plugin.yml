@@ -1,0 +1,9 @@
+name: MoneyPlugin
+version: 1.0
+author: BebeDlaStreat
+website: https://bebedlastreat.fr
+description: Money plugin
+main: fr.bebedlastreat.money.Main
+commands:
+  coins:
+    aliases: [money, bal, balance]
